@@ -1,0 +1,180 @@
+{
+  "products": [
+    {
+      "name": "Product001",
+      "cost": 10,
+      "quantity": 10,
+      "locationId": 1,
+      "familyId": 2,
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "Product002",
+      "cost": 20,
+      "quantity": 2000,
+      "locationId": 1,
+      "familyId": 2
+    },
+    {
+      "id": 3,
+      "name": "Product003",
+      "cost": 30,
+      "quantity": 3000,
+      "locationId": 3,
+      "familyId": 2
+    },
+    {
+      "id": 4,
+      "name": "Product004",
+      "cost": 40,
+      "quantity": 4000,
+      "locationId": 2,
+      "familyId": 3
+    },
+    {
+      "name": "Product007",
+      "cost": 88,
+      "quantity": 888,
+      "locationId": 2,
+      "familyId": 2,
+      "id": 5
+    },
+    {
+      "name": "Product007",
+      "cost": 88,
+      "quantity": 888,
+      "locationId": 2,
+      "familyId": 2,
+      "id": 6
+    },
+    {
+      "name": "Product007",
+      "cost": 88,
+      "quantity": 888,
+      "locationId": 2,
+      "familyId": 2,
+      "id": 7
+    },
+    {
+      "name": "Product007",
+      "cost": 88,
+      "quantity": 888,
+      "locationId": 2,
+      "familyId": 2,
+      "id": 8
+    },
+    {
+      "name": "Product007",
+      "cost": 88,
+      "quantity": 888,
+      "locationId": 2,
+      "familyId": 2,
+      "id": 9
+    },
+    {
+      "name": "Product007",
+      "cost": 88,
+      "quantity": 888,
+      "locationId": 2,
+      "familyId": 2,
+      "id": 10
+    },
+    {
+      "name": "Product007",
+      "cost": 88,
+      "quantity": 888,
+      "locationId": 2,
+      "familyId": 2,
+      "id": 11
+    },
+    {
+      "name": "Product007",
+      "cost": 88,
+      "quantity": 888,
+      "locationId": 2,
+      "familyId": 2,
+      "id": 12
+    },
+    {
+      "name": "Product007",
+      "cost": 88,
+      "quantity": 888,
+      "locationId": 2,
+      "familyId": 2,
+      "id": 13
+    },
+    {
+      "name": "Product007",
+      "cost": 88,
+      "quantity": 888,
+      "locationId": 2,
+      "familyId": 2,
+      "id": 14
+    },
+    {
+      "name": "Product007",
+      "cost": 88,
+      "quantity": 888,
+      "locationId": 2,
+      "familyId": 2,
+      "id": 15
+    },
+    {
+      "name": "Product007",
+      "cost": 88,
+      "quantity": 888,
+      "locationId": 2,
+      "familyId": 2,
+      "id": 16
+    }
+  ],
+  "locations": [
+    {
+      "id": 1,
+      "name": "Location001"
+    },
+    {
+      "id": 2,
+      "name": "Location002"
+    },
+    {
+      "id": 3,
+      "name": "Location003"
+    }
+  ],
+  "families": [
+    {
+      "id": 1,
+      "name": "FM001"
+    },
+    {
+      "id": 2,
+      "name": "FM002"
+    },
+    {
+      "id": 3,
+      "name": "FM003"
+    }
+  ],
+  "transactions": [
+    {
+      "id": 1,
+      "cost": 11,
+      "quantity": 10,
+      "productId": 1
+    },
+    {
+      "id": 2,
+      "cost": 12,
+      "quantity": 100,
+      "productId": 2
+    },
+    {
+      "id": 3,
+      "cost": 15,
+      "quantity": 101,
+      "productId": 3
+    }
+  ]
+}
